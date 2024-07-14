@@ -1,1 +1,11 @@
-<iframe src="https://archive.org/embed/move-sneak" width="640" height="480" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<!DOCTYPE html> 
+<html> 
+<body> 
+
+<video width="400" controls>
+  <source src="https://archive.org/embed/move-sneak" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
+</body> 
+</html>
